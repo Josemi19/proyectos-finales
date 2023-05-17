@@ -5,7 +5,7 @@
 - [Aplicacion de creativos musicales](#aplicacion-donde-se-puedan-juntar-grupos-creativosenfocados-en-musica)
 - [Aplicacion de intercambio de juegos](#aplicacion-de-intercambio-de-juego-fisicos-de-diferentes-consolas)
 
-## Licores mundiales
+## Celicor
 
 - Descripcion: Una aplicacion tipo ecommerce que vende licores a nacional
 - Idea: Jesus Rodriguez
@@ -16,7 +16,7 @@
   - Raul - [github@rjalvarez27](https://github.com/rjalvarez27)
 - [Repo](https://github.com/Santiagoarraez/flask-proyecto-final)
 
-## Sistema de gestion de hotel
+## Efectistay
 
 - Descripcion: Manejar las habitaciones ocupadas, ingreso de huespedes al sistema, etc de cosas de hotel
 - Idea: Kris
@@ -27,7 +27,7 @@
   - Otoniel - [github@Xzelta](https://github.com/Xzelta)
 - [Repo](https://github.com/khriscito/ProyectoFinal)
 
-## Aplicacion donde se puedan juntar grupos creativos(enfocados en musica)
+## vvversion
 
 - Descripcion: Los grupos pueden discutir los avances en proyectos, donde pueden comentar, crear y editar versiones de la cancion(GitMusic)
 - Idea: Reynaldo
@@ -38,7 +38,7 @@
   - Pedro - [github@fiticostini](https://github.com/fiticostini)
 - [Repo](https://github.com/bostonrex/vvversions)
 
-## Aplicacion de intercambio de juego fisicos de diferentes consolas
+## TradeaTodo
 
 - Descripcion, el usuario puede subir que consola tiene, que juegos tiene y el proceso por el que va del juego, para asi poder intercambiar juegos con otros miembros de la comunidad
 - Idea: Jose Hernandez
